@@ -1,2 +1,2 @@
-# Text_recognition_PYtesseract_OCR
+# Text_recognition_Pytesseract_OCR
 Text recognition uysing python - tesseract
